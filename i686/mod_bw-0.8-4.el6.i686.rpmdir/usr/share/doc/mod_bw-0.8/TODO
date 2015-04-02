@@ -1,0 +1,12 @@
+Todo :
+
+  - Fixing MaxConnections behaviour
+  - Limiting on INPUT
+  - Per User Bandwidth
+  - Fix symbols on some distros
+  - Htaccess support
+
+ All this will be included before the release of v1.0
+ After reaching v1.0, the full code of the mod will be rewritten, 
+and will include some new features, leaving v1.0 of the mod, as 
+legacy code.
