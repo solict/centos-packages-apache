@@ -1,0 +1,6 @@
+%_httpd_mmn 20120211x8664
+%_httpd_apxs /usr/bin/apxs
+%_httpd_modconfdir /etc/httpd/conf.modules.d
+%_httpd_confdir /etc/httpd/conf.d
+%_httpd_contentdir /usr/share/httpd
+%_httpd_moddir /usr/lib64/httpd/modules
